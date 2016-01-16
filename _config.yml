@@ -1,0 +1,28 @@
+name: marketing
+favicon: null
+layout_spectrum: 0.5115849799476564
+typography_spectrum: 0.33444610540755093
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.4038504073396325
+  lightness: 0.4453297066502273
+  saturation: 0.5867415829561651
+  rhythmicContrast: 0.45894724992103875
+purpose: []
